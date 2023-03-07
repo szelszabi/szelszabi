@@ -1,5 +1,5 @@
-### Hi there 👋
-### Szél Projektek he je!!4
+### Szél Kő Papír Olló Játékja
+A lore az, hogy Goro Majima párbajra hívta Kiryu Kazumát, nem is akármilyenre, egy BO3-as Kő Papír Olló meccsre.
 
 
 <!--
